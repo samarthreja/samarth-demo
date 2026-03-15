@@ -1,4 +1,4 @@
 # samarth-demo
 This is my first repository.
 <br>
-Author - Samarth Reja
+Author - Samarth Reja (OIST)
